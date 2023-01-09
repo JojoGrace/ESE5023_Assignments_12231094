@@ -12,3 +12,9 @@ Is there a trend in monthly averaged air temperature in the past 25 years? (-3p)
 Recheck plot x and y. (-2p)
 3.5 
 Recheck plot x and y. (-2p)
+
+## Comemnts on HW3 Lixc  (49/50)
+1.2 
+Good to consider latitude weight! (+1p)
+1.2 & 1.3
+Give description of your results. (-2p)
