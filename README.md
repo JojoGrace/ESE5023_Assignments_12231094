@@ -18,3 +18,11 @@ Recheck plot x and y. (-2p)
 Good to consider latitude weight! (+1p)
 1.2 & 1.3
 Give description of your results. (-2p)
+
+### Assginment 04 comments - Chenyy
+Great job! I shall give you full point (31/30).
+1 bonus is for your detailed remarks.
+
+### Assginment 05 comments - Chenyy
+Great job! I shall give you full point with 13 bonus (53/40).
+Your report is neat and organized. You did also good on Q1.4, don’t worry the small deductions for bonus question.
